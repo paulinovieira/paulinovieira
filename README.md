@@ -1,11 +1,19 @@
  Hi there 👋
-  <h1 align="center"> Gilmara Patricia Vieira
-  
-  Sou casada,mãe de um menino de quatro anos
-  Cursando o curso de Desenvolvedor Front-End
-  
-  
-  
+ # Meu nome é Gilmara Patricia Vieira
+## Idade: 39 Anos
+### Moro em São Paulo - Capital
+Sou Casada
+Mãe de 1 filho
+🔭 Trabalho como Analista de Seguros do Banco do Brasil e Mapfre. 
+🌱 Atualmente curso programação Front-End no Senai-Ford Enter.
+
+🤔 Desejo que ao término do curso, consiga oportunidades de emprego na área de desenvolvimento Front End.
+
+Estou me especializando na área de programação Front End em HTML, CSS e Java Script
+
+<img src=
+
+style=square&logo=Gmail&logoColor=white&link=mailto:vieira.cn@bol.com.br)](mailto:vieira.cn@bol.com.b)
   
  
   
